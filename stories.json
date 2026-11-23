@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Pakistan’s startup ecosystem enters a new chapter",
+    "slug": "ecosystem-new-chapter",
+    "category": "Startups",
+    "excerpt": "Founders are building ambitious companies across fintech, commerce, climate and artificial intelligence. Here are the signals shaping the next phase.",
+    "body": "Pakistan’s startup ecosystem is evolving. A new generation of founders is building for local needs while increasingly looking beyond borders. Investors, operators and policymakers will play a defining role in turning early momentum into durable companies.\n\nThe opportunity is not limited to funding. Talent, infrastructure, customer trust and thoughtful regulation remain central to sustainable growth.",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85",
+    "author": "Startup Karlay Desk",
+    "created_at": "2026-11-23 10:00:00",
+    "breaking": true
+  },
+  {
+    "title": "Pakistan’s fintech opportunity is moving beyond payments",
+    "slug": "fintech-beyond-payments",
+    "category": "Funding",
+    "excerpt": "The next wave of financial innovation could focus on small businesses, embedded finance and access to responsible credit.",
+    "body": "Fintech in Pakistan is entering a more nuanced phase. Payments created the foundation, but the next opportunity may come from tools that help merchants manage cash flow, access working capital and build reliable financial records.\n\nExecution, consumer protection and sustainable unit economics will matter more than growth at any cost.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=85",
+    "author": "Startup Karlay Desk",
+    "created_at": "2026-11-22 10:00:00",
+    "breaking": false
+  },
+  {
+    "title": "AI is creating new opportunities for Pakistani builders",
+    "slug": "ai-opportunities-pakistan",
+    "category": "Technology",
+    "excerpt": "From workflow automation to local-language products, founders are finding practical ways to apply AI.",
+    "body": "Artificial intelligence is lowering the cost of experimentation for small teams. Pakistani founders can use this moment to solve focused problems in education, agriculture, retail and professional services.\n\nThe strongest products will pair useful technology with deep customer understanding and trustworthy data practices.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=85",
+    "author": "Startup Karlay Desk",
+    "created_at": "2026-11-21 10:00:00",
+    "breaking": false
+  },
+  {
+    "title": "What early-stage founders should know before raising capital",
+    "slug": "founder-fundraising-guide",
+    "category": "Founder Playbook",
+    "excerpt": "A clear narrative, customer evidence and disciplined financial planning can make fundraising more productive.",
+    "body": "Fundraising is a process, not a milestone. Before approaching investors, founders should be able to explain the customer problem, why now, evidence of demand, the economics of the business and what the next round of capital will unlock.\n\nA concise data room and honest communication build confidence. Not every company needs venture capital; the right funding path depends on the business model and ambition.",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=85",
+    "author": "Startup Karlay Desk",
+    "created_at": "2026-11-20 10:00:00",
+    "breaking": false
+  },
+  {
+    "title": "Pakistan’s climate innovators are building for resilience",
+    "slug": "climate-innovators-resilience",
+    "category": "Impact",
+    "excerpt": "Climate-tech opportunities span energy access, water, agriculture and resource efficiency.",
+    "body": "Climate innovation is increasingly connected to everyday economics. Better energy management, efficient irrigation, waste recovery and resilient supply chains can create measurable value for businesses and communities.\n\nFounders need to prove both impact and commercial viability, while working closely with the customers and communities who will use these solutions.",
+    "image": "https://images.unsplash.com/photo-1473341304170-971ecd998e1f?auto=format&fit=crop&w=1200&q=85",
+    "author": "Startup Karlay Desk",
+    "created_at": "2026-11-19 10:00:00",
+    "breaking": false
+  }
+]

@@ -1,0 +1,51 @@
+media:
+  input: public/uploads
+  output: /uploads
+content:
+  - name: stories
+    label: Articles & Updates
+    type: file
+    path: public/stories.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Article title
+        type: string
+        required: true
+      - name: slug
+        label: URL slug (lowercase-with-hyphens)
+        type: string
+        required: true
+        pattern: "^[a-z0-9-]+$"
+      - name: category
+        label: Category
+        type: select
+        options:
+          values:
+            - Startups
+            - Funding
+            - Technology
+            - Impact
+            - Founder Playbook
+      - name: excerpt
+        label: Short description
+        type: text
+      - name: body
+        label: Article body
+        type: rich-text
+        options:
+          format: markdown
+          media: false
+      - name: image
+        label: Cover image URL
+        type: string
+      - name: author
+        label: Author
+        type: string
+      - name: created_at
+        label: Publish date and time
+        type: date
+      - name: breaking
+        label: Breaking news ticker
+        type: boolean
